@@ -1,0 +1,15 @@
+{
+  "short_name": "doojiOS",
+  "name": "doojiOS",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "460x460",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
