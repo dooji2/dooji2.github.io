@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.944977e8.css",
-    "main.js": "/static/js/main.4d634474.js",
+    "main.css": "/static/css/main.d397bdee.css",
+    "main.js": "/static/js/main.89d8401a.js",
     "static/js/453.a3d3e670.chunk.js": "/static/js/453.a3d3e670.chunk.js",
     "static/media/dooji.png": "/static/media/dooji.661db30772004ffc6f29.png",
     "static/media/cake.png": "/static/media/cake.daae73ae1608dada0e5c.png",
@@ -10,14 +10,15 @@
     "static/media/curseforge.png": "/static/media/curseforge.7c97489e53501d557333.png",
     "static/media/aurora.png": "/static/media/aurora.78732371773c6d1d5a54.png",
     "static/media/modrinth.png": "/static/media/modrinth.fc2950530310d2b86f06.png",
+    "static/media/discordLogo.png": "/static/media/discordLogo.667df059ddf407979d68.png",
     "static/media/modrinthTransparent.svg": "/static/media/modrinthTransparent.c0fa1f6d16399108f3a5dcba94f487a3.svg",
     "index.html": "/index.html",
-    "main.944977e8.css.map": "/static/css/main.944977e8.css.map",
-    "main.4d634474.js.map": "/static/js/main.4d634474.js.map",
+    "main.d397bdee.css.map": "/static/css/main.d397bdee.css.map",
+    "main.89d8401a.js.map": "/static/js/main.89d8401a.js.map",
     "453.a3d3e670.chunk.js.map": "/static/js/453.a3d3e670.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.944977e8.css",
-    "static/js/main.4d634474.js"
+    "static/css/main.d397bdee.css",
+    "static/js/main.89d8401a.js"
   ]
 }
