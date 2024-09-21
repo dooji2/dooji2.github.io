@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.446f70f7.css",
-    "main.js": "/static/js/main.6df5dce2.js",
+    "main.css": "/static/css/main.78b43201.css",
+    "main.js": "/static/js/main.e7780cca.js",
     "static/js/453.a3d3e670.chunk.js": "/static/js/453.a3d3e670.chunk.js",
     "static/media/dooji.png": "/static/media/dooji.661db30772004ffc6f29.png",
     "static/media/cake.png": "/static/media/cake.daae73ae1608dada0e5c.png",
     "static/media/github.png": "/static/media/github.6a68dcefabb970287606.png",
-    "static/media/confetti.png": "/static/media/confetti.fb7682b83c42e705462e.png",
     "static/media/curseforge.png": "/static/media/curseforge.7c97489e53501d557333.png",
-    "static/media/aurora.png": "/static/media/aurora.78732371773c6d1d5a54.png",
     "static/media/modrinth.png": "/static/media/modrinth.fc2950530310d2b86f06.png",
     "static/media/discordLogo.png": "/static/media/discordLogo.667df059ddf407979d68.png",
     "static/media/modrinthTransparent.svg": "/static/media/modrinthTransparent.c0fa1f6d16399108f3a5dcba94f487a3.svg",
     "index.html": "/index.html",
-    "main.446f70f7.css.map": "/static/css/main.446f70f7.css.map",
-    "main.6df5dce2.js.map": "/static/js/main.6df5dce2.js.map",
+    "static/media/x.svg": "/static/media/x.fb4cabc3dd433946ff0b50f2c1f39c67.svg",
+    "main.78b43201.css.map": "/static/css/main.78b43201.css.map",
+    "main.e7780cca.js.map": "/static/js/main.e7780cca.js.map",
     "453.a3d3e670.chunk.js.map": "/static/js/453.a3d3e670.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.446f70f7.css",
-    "static/js/main.6df5dce2.js"
+    "static/css/main.78b43201.css",
+    "static/js/main.e7780cca.js"
   ]
 }
